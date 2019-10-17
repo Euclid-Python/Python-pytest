@@ -1,2 +1,3 @@
-# Python-pytest
-Pytest course
+# Pytest
+
+Pytest course for Euclid Workshop.

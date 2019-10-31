@@ -1,5 +1,7 @@
 jupyter
 pytest
+jupyter_contrib_nbextensions
 ipytest
 coverage
 RISE
+numpy

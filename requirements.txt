@@ -1,5 +1,8 @@
 jupyter
 pytest
+pytest-cov
+pytest-mock
+pytest-watch
 jupyter_contrib_nbextensions
 ipytest
 coverage

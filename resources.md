@@ -4,3 +4,11 @@
 # Jupyter and Rise
 
 * [Tips for Creating Slideshows in Jupyter](https://www.markroepke.me/posts/2019/06/05/tips-for-slideshows-in-jupyter.html)
+
+
+## Plugins
+
+### pixiedust 
+
+https://medium.com/codait/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62
+import pixiedust 

@@ -8,3 +8,6 @@ ipytest
 coverage
 RISE
 numpy
+pixiedust
+pandas
+matplotlib

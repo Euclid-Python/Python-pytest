@@ -1,6 +1,4 @@
-
-
-from ex02.computer import computer
+from ex01.computer import computer
 
 def test_add_scalar_string():
     assert computer.add("1", "2") == 3
